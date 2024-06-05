@@ -34,9 +34,9 @@ proxies:
   - {name: 🇭🇰 VMISS-HK.INT->NNR, server: 82ebf39a-b624-463d-a4da-3d644a4749a9.dybcloud.cn, port: 27562, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: AZSFqmuviOqVI5i7wrIXeYxUwfIU6NOjrnwc0fA6MYRD, tfo: false}
   - {name: 🇺🇸 silicloud美国->软银NNR, server: 2fd3ffd3-1bdb-424c-a9d8-487236698c29.dybcloud.cn, port: 37198, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Dbo53gcvzfGBc8CdyXYcYEHzq38CZyYsHwX94y0Upn3e, tfo: false}
   - {name: 🇯🇵 silicloud日本->软银NNR, server: 2fd3ffd3-1bdb-424c-a9d8-487236698c29.dybcloud.cn, port: 38255, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: WJiOPZVaB6, tfo: false}
-  - {name: 🇭🇰 VMISS-HK.INT->GO, server: 36.139.238.208, port: 13246, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: AZSFqmuviOqVI5i7wrIXeYxUwfIU6NOjrnwc0fA6MYRD, tfo: false}
+  - {name: 🇭🇰 VMISS-HK.INT->GO, server: 183.232.167.72, port: 13246, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: AZSFqmuviOqVI5i7wrIXeYxUwfIU6NOjrnwc0fA6MYRD, tfo: false}
   - {name: 🇭🇰 akile-HK->GO->广港IPCL, server: 36.139.159.189, port: 31932, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: HqLrH5Rj88qK3ZZ1PCYEQnv50nn6sD3vtDlgrOQ2U3hc, tfo: false}
-  - {name: 🇭🇰 akile-HK->GO, server: 36.139.238.208, port: 17679, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: HqLrH5Rj88qK3ZZ1PCYEQnv50nn6sD3vtDlgrOQ2U3hc, tfo: false}
+  - {name: 🇭🇰 akile-HK->GO, server: 183.232.167.72, port: 17679, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: HqLrH5Rj88qK3ZZ1PCYEQnv50nn6sD3vtDlgrOQ2U3hc, tfo: false}
   - {name: 🇭🇰 akile-HK->NNR广移, server: 82ebf39a-b624-463d-a4da-3d644a4749a9.dybcloud.cn, port: 29405, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: HqLrH5Rj88qK3ZZ1PCYEQnv50nn6sD3vtDlgrOQ2U3hc, tfo: false}
   - {name: 🇺🇸 BWG->沪日CN2, server: 0428c217-b76f-40f0-b9df-b5fef7be0a34.dybcloud.cn, port: 46005, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: BvyKssu21MNkggPRAa2Pxm4L2bKPQHr2sMXLQx6AGNn6, tfo: false}
 proxy-groups:
